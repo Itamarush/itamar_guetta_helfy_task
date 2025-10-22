@@ -80,5 +80,5 @@ Total: about 5.5 hours (went a bit over the 4 hour limit because I wanted to add
 
 - The carousel is the main feature - it smoothly loops through tasks
 - Everything works offline thanks to localStorage
-- Mobile responsive design
 - No external libraries used for carousel (built from scratch)
+- Mobile responsive design - not implemented ( no time)
